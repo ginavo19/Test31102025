@@ -1,2 +1,2 @@
 # Test31102025
-Test
+This is my first project for practicing git command
